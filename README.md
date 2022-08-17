@@ -344,7 +344,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 <tr><td colspan=2 align="center">
 
-### 500USD
+### 925USD
 
 </td></tr>
 <!--
