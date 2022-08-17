@@ -301,16 +301,16 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td><td align="center">Постим русские дипфейки сюда !</td></tr>
 
 <tr><td align="right">
-QQ群124500433
-</td><td align="center">中文交流QQ群，商务合作找群主</td></tr>
+
+</td><td align="center"></td></tr>
 
 <tr><td align="right">
 <a href="https://www.dfldata.xyz">dfldata.xyz</a>
-</td><td align="center">中文交流论坛，免费软件教程、模型、人脸数据</td></tr>
+</td><td align="center"></td></tr>
 
 <tr><td align="right">
 <a href="https://www.deepfaker.xyz/">deepfaker.xyz</a>
-</td><td align="center">中文学习站（非官方)</td></tr>
+</td><td align="center"></td></tr>
 
 <tr><td colspan=2 align="center">
 
@@ -337,13 +337,14 @@ QQ群124500433
 
 <tr><td colspan=2 align="center">
 
-## How I can help the project?
+## Price
+
 
 </td></tr>
 
 <tr><td colspan=2 align="center">
 
-### Sponsor deepfake research and DeepFaceLab development.
+### 500USD
 
 </td></tr>
 <!--
@@ -352,11 +353,11 @@ QQ群124500433
 </td></tr>
 -->
 <tr><td colspan=2 align="center">
-<a href="https://money.yandex.ru/to/41001142318065">Donate via Yandex.Money</a>
+<a href="https://money.yandex.ru/to/41001142318065">Donate via UADT</a>
 </td></tr>
 
 <tr><td colspan=2 align="center">
-bitcoin:bc1qkhh7h0gwwhxgg6h6gpllfgstkd645fefrd5s6z
+Trc20:TAwaEZQw9PHMLvhrijvienmwEUCF8nt5gw
 </td></tr>
 
 <tr><td colspan=2 align="center">
@@ -372,13 +373,13 @@ You can collect faceset of any celebrity that can be used in DeepFaceLab and sha
 
 <tr><td colspan=2 align="center">
 
-### Star this repo
+### Have already paid
 
 </td></tr>
 
 <tr><td colspan=2 align="center">
 
-Register github account and push "Star" button.
+Please send your hardware ID to DeepFacelab@vilac.com  It will be unlocked within three working days.
 
 </td></tr>
 
