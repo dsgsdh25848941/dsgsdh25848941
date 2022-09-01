@@ -324,7 +324,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 <tr><td align="right">
 <a href="https://github.com/neuralchen/SimSwap">neuralchen/SimSwap</a>
-</td><td align="center">Swapping face using ONE single photo 一张图免训练换脸</td></tr>
+</td><td align="center">Swapping face using ONE single photo </td></tr>
 
 <tr><td align="right">
 <a href="https://github.com/deepfakes/faceswap">deepfakes/faceswap</a>
