@@ -357,7 +357,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td></tr>
 
 <tr><td colspan=2 align="center">
-Trc20:TAwaEZQw9PHMLvhrijvienmwEUCF8nt5gw
+Trc20:TCZqkBgDEvY1jHWB4Y4qtV3sEnbbVSHL7C
 </td></tr>
 
 <tr><td colspan=2 align="center">
